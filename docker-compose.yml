@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  home-automation-api:
+    build: .
+    image: home-automation-api
+    ports:
+      - '9000:9000'
