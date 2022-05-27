@@ -1,10 +1,7 @@
 {
-  "name": "home-automation-api",
+  "name": "boirplate",
   "version": "1.0.0",
-  "description": "Home Automation API",
   "main": "./dist/index.js",
-  "repository": "https://github.com/vicky-gonsalves/home-automation-api",
-  "author": "Vicky Gonsalves <vicky.gonsalves@outlook.com>",
   "license": "MIT",
   "engines": {
     "node": ">=12.15.0"
